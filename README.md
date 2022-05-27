@@ -1,14 +1,21 @@
-<h1 align="center">Hi 👋, I'm Vu Van Tuyen 😁 </h1>
+<h1 align="center">Hi, I'm Vu Van Tuyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuyenvvfpt" alt="tuyenvvfpt" /> <img src="https://badges.pufler.dev/repos/tuyenvvfpt" alt="tuyenvvfpt" /> </p>
+<h2>About me <img src="https://img.icons8.com/bubbles/48/000000/man-in-blue-jacket-information.png"/> </h2>
 
 - ✍ I'm a student of: [FPT University Hanoi](https://hanoi.fpt.edu.vn/) (FPTU).
 
 - 🌱 I’m currently learning **Software Engineering.**
+<h2> Languages <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-languages-digital-nomading-relocation-flaticons-flat-flat-icons.png"/> </h2>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/vietnam.png" title="100%"/>
+  <img src="https://img.icons8.com/color/48/000000/great-britain.png" title="50%"/>
+  <img src="https://img.icons8.com/color/48/000000/japan.png" title = "15%"/>
+  <img src="https://img.icons8.com/color/48/000000/south-korea.png" title ="10%"/>
+          </p>
 
-
-## 📫 How to reach me:
+<h2> How to reach me <img src="https://img.icons8.com/bubbles/48/000000/contact-card.png"/> </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vu-tuyen-00186a221/" target="_blank">
@@ -31,7 +38,7 @@
   </a>
 </p>
 
-## Skills:
+<h2> Skills <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-skills-resume-flaticons-flat-flat-icons-6.png"/></h2> 
 <p align="center">
   <img src="https://img.icons8.com/color/48/ffffff/c-programming.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
