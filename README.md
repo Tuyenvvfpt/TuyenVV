@@ -44,7 +44,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenvvfpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
@@ -58,18 +58,10 @@
 # Certificates:
 
 <p align="center">
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
-    <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
-  </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
-  </a>
-</p>
+  <a href="https://coursera.org/share/884df49d57d6c5b763c3d9d3df476665">
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
+   </a>
 
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG">
-    <img alt="Introduction to JavaScript" title="Introduction to JavaScript" src="certificates/Coursera%20XFNU3UXCK5DG.png" width="300px" />
-  </a>
   <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
     <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
   </a>
