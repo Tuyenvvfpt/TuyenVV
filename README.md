@@ -44,7 +44,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-Adding...
+Adding now...
     </td>
     <td>
       <p align="center"> 
