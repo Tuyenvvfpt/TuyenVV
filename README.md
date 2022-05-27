@@ -58,19 +58,19 @@ Adding now...
 
 <p align="center">
   <a href="https://coursera.org/share/884df49d57d6c5b763c3d9d3df476665">
-    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="" width="300px" />
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="certificates/4.jpeg" width="300px" />
    </a>
 
   <a href="https://coursera.org/share/1ad7062132f5ef8267d3adcd4273abc4">
-    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="" width="300px" />
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="certificates/3.jpeg" width="300px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://coursera.org/share/5fd2c08b86c5569c243e641f7bfcf681">
-    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Web Design for Everybody: Basics of Web Development & Coding" src="" width="300px" />
+    <img alt="Web Design for Everybody: Basics of Web Development & Coding" title="Web Design for Everybody: Basics of Web Development & Coding" src="certificates/2.jpeg" width="300px" />
   </a>
   <a href="https://coursera.org/share/5597fc94bdc787cd879580beca565418">
-    <img alt="Computer Communications" title="Computer Communications" src="" width="300px" />
+    <img alt="Computer Communications" title="Computer Communications" src="certificates/1.jpeg" width="300px" />
   </a>
 </p>
