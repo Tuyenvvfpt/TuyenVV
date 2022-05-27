@@ -58,11 +58,11 @@ Adding...
 
 <p align="center">
   <a href="https://coursera.org/share/884df49d57d6c5b763c3d9d3df476665">
-    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
+    <img alt="CertNexus Certified Ethical Emerging Technologist" title="CertNexus Certified Ethical Emerging Technologist" src="" width="300px" />
    </a>
 
-  <a href="https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E">
-    <img alt="Audio Classification with TensorFlow" title="Audio Classification with TensorFlow" src="certificates/Coursera%20MBSDFCKQ9X8E.png" width="300px" />
+  <a href="https://coursera.org/share/1ad7062132f5ef8267d3adcd4273abc4">
+    <img alt="Software Development Lifecycle" title="Software Development Lifecycle" src="" width="300px" />
   </a>
 </p>
 
