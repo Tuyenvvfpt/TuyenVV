@@ -17,6 +17,9 @@
   <a href="https://www.facebook.com/tuyenko.luyenthuyen/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://www.instagram.com/_tuyenvudzvcl_/" alt="Instagram">
+    <img src="https://img.icons8.com/clouds/50/ffffff/instagram-new--v3.png"/>" target="_blank" />
+  </a> 
   <a href="https://github.com/Tuyenvvfpt" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
