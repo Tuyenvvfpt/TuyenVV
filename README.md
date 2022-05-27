@@ -51,8 +51,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenvvfpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tuyenvvfpt" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tuyenvvfpt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tuyenvvfpt" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyenvvfpt&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20languages%20used%20" alt="tuyenvvfpt" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tuyenvvfpt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github%20" alt="tuyenvvfpt" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-# Certificates:
+<h2> Certificates <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-certificate-online-education-flaticons-flat-flat-icons.png"/> </h2> 
 
 <p align="center">
   <a href="https://coursera.org/share/884df49d57d6c5b763c3d9d3df476665">
