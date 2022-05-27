@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
 <h1 align="center">Hi, I'm Vu Van Tuyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
@@ -81,4 +85,9 @@
   <a href="https://coursera.org/share/5597fc94bdc787cd879580beca565418">
     <img alt="Computer Communications" title="Computer Communications" src="certificates/1.jpeg" width="300px" />
   </a>
+</p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
