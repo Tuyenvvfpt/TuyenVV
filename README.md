@@ -89,7 +89,7 @@
 <p align="center">
   
   <a href="https://coursera.org/share/8cc50889112f40c0d387464b30a87e17">
-    <img alt="User Experience Research and Design" title="User Experience Research and Design" src="certificates/1.jpeg" width="300px" />
+    <img alt="User Experience Research and Design" title="User Experience Research and Design" src="certificates/5.jpeg" width="300px" />
   </a>
 </p>
 <p align="center">
